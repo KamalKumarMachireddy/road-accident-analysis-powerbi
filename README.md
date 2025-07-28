@@ -18,6 +18,7 @@ This repository contains a Power BI project that analyzes a comprehensive road a
 
 ## Dataset
 
+You can download the dataset from the following link: https://drive.google.com/file/d/1yTI0506e7lZglRl7fsG2_TL0fHcd-G6D/view
 The dataset includes details of road accidents, including:
 - Accident Index
 - Accident Date and Time
