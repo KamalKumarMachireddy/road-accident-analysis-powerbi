@@ -28,8 +28,6 @@ The dataset includes details of road accidents, including:
 - Junction Controls
 - Carriageway Hazards
 
-> Note: The dataset was imported from a provided source (e.g., UK Department for Transport or a similar source).
-
 ## Data Preparation
 
 - Filled missing values (e.g., "Carriageway_Hazards" set to "None")
